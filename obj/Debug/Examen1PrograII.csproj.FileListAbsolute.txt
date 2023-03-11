@@ -1,0 +1,8 @@
+C:\Users\cblaz\Documents\Bloomingtown\Examen1PrograII\Examen1PrograII\bin\Debug\Examen1PrograII.exe.config
+C:\Users\cblaz\Documents\Bloomingtown\Examen1PrograII\Examen1PrograII\bin\Debug\Examen1PrograII.exe
+C:\Users\cblaz\Documents\Bloomingtown\Examen1PrograII\Examen1PrograII\bin\Debug\Examen1PrograII.pdb
+C:\Users\cblaz\Documents\Bloomingtown\Examen1PrograII\Examen1PrograII\obj\Debug\Examen1PrograII.csproj.AssemblyReference.cache
+C:\Users\cblaz\Documents\Bloomingtown\Examen1PrograII\Examen1PrograII\obj\Debug\Examen1PrograII.csproj.SuggestedBindingRedirects.cache
+C:\Users\cblaz\Documents\Bloomingtown\Examen1PrograII\Examen1PrograII\obj\Debug\Examen1PrograII.csproj.CoreCompileInputs.cache
+C:\Users\cblaz\Documents\Bloomingtown\Examen1PrograII\Examen1PrograII\obj\Debug\Examen1PrograII.exe
+C:\Users\cblaz\Documents\Bloomingtown\Examen1PrograII\Examen1PrograII\obj\Debug\Examen1PrograII.pdb
